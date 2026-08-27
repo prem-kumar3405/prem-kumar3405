@@ -1,0 +1,43 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2E3192"/>
+      <stop offset="100%" stop-color="#1BFFFF"/>
+    </linearGradient>
+    <linearGradient id="dotgrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="220" rx="18" fill="url(#bg)"/>
+
+  <!-- decorative circuit-style dots -->
+  <g fill="url(#dotgrad)">
+    <circle cx="760" cy="40" r="3"/>
+    <circle cx="800" cy="40" r="3"/>
+    <circle cx="840" cy="40" r="3"/>
+    <circle cx="780" cy="70" r="3"/>
+    <circle cx="820" cy="70" r="3"/>
+    <circle cx="860" cy="70" r="3"/>
+    <circle cx="760" cy="100" r="3"/>
+    <circle cx="800" cy="100" r="3"/>
+    <circle cx="840" cy="100" r="3"/>
+  </g>
+
+  <!-- code bracket accent -->
+  <text x="60" y="100" font-family="Consolas, Menlo, monospace" font-size="34" fill="#ffffff" fill-opacity="0.55">&lt;/&gt;</text>
+
+  <!-- name -->
+  <text x="60" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff">
+    Prem Kumar
+  </text>
+
+  <!-- tagline -->
+  <text x="60" y="160" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" fill="#e6faff" fill-opacity="0.95">
+    Backend Developer&#160;&#160;|&#160;&#160;Java &amp; Spring Boot&#160;&#160;|&#160;&#160;Concurrency-safe systems
+  </text>
+
+  <!-- underline accent -->
+  <rect x="60" y="172" width="220" height="4" rx="2" fill="#ffffff" fill-opacity="0.85"/>
+</svg>
