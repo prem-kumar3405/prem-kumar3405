@@ -1,94 +1,65 @@
-<div align="center">
+<h1 align="center">Hi, I'm Prem Kumar 👋</h1>
+<h3 align="center">Backend Developer | Java & Spring Boot</h3>
 
-```
-$ whoami
-```
+<p align="center">
+I build backend systems that stay correct under pressure — concurrency, data consistency, and clean API design.
+</p>
 
-# Prem Kumar
+<p align="center">
+  <a href="https://portfolio-prem3405.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/premkumarrajamani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/prem_cse_03/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
 
-**Backend Developer — building systems that stay correct under concurrent load**
+---
 
-</div>
+### 🔧 What I work with
 
-<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+</p>
 
-```java
-System.out.println("Booting profile...");
+---
 
-Developer prem = Developer.builder()
-    .role("Backend Developer")
-    .stack(List.of("Java 21", "Spring Boot", "Hibernate", "MySQL"))
-    .focus("Concurrency-safe, idempotent transaction systems")
-    .currentlyBuilding("Banking Management System v3")
-    .status(Status.OPEN_TO_OPPORTUNITIES)
-    .build();
+### 📌 Featured Project
 
-System.out.println(prem);
-```
+**[Banking Management System](https://github.com/prem-kumar3405/BANKING-MANAGEMENT-SYSYEM)**
+A Spring Boot backend that goes past basic CRUD — built to survive concurrent access and repeated requests without corrupting data.
 
-```
->> Developer{role=Backend Developer, focus=Concurrency-safe systems, status=OPEN_TO_OPPORTUNITIES}
-```
+- ⚡ Optimistic locking + idempotency keys to prevent double-processing and race conditions on fund transfers
+- 🧪 Dedicated concurrency test suites that simulate simultaneous requests against the same account
+- 📄 Documented architecture and API reference, not just code
 
-<br>
+---
 
-## `GET /projects/featured`
+### 📊 GitHub Stats
 
-```json
-{
-  "project": "Banking Management System",
-  "url": "https://github.com/prem-kumar3405/BANKING-MANAGEMENT-SYSYEM",
-  "stack": ["Java 21", "Spring Boot", "Spring Data JPA", "MySQL"],
-  "engineering_highlights": [
-    "Optimistic locking to prevent lost updates on concurrent balance changes",
-    "Idempotency keys so retried requests never double-process a transaction",
-    "Dedicated test suites simulating simultaneous requests on the same account",
-    "Documented architecture: system design, DB schema, concurrency flow"
-  ],
-  "status": "v2 complete — v3 in progress (auth, Docker, CI/CD)"
-}
-```
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prem-kumar3405&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-kumar3405&layout=compact&hide_border=true&theme=default" />
+</p>
 
-<br>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-kumar3405&hide_border=true&theme=default" />
+</p>
 
-## `GET /stack`
+---
 
-| Layer | Tools |
-|---|---|
-| `language`   | Java 21 |
-| `framework`  | Spring Boot, Spring MVC, Spring Data JPA |
-| `persistence`| MySQL, Hibernate |
-| `testing`    | JUnit, MockMvc |
-| `tooling`    | Maven, Git, Postman |
+### 🎯 Currently focused on
 
-<br>
+- Deepening backend fundamentals: concurrency control, distributed idempotency, transaction integrity
+- Preparing for SDE interviews — DSA on [LeetCode](https://leetcode.com/u/prem_cse_03/) + system design fundamentals
+- Shipping V3 of my banking project: authentication, Docker, and CI/CD
 
-## `GET /activity`
+---
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=prem-kumar3405&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-kumar3405&layout=compact&hide_border=true&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-kumar3405&hide_border=true&theme=tokyonight" />
-</div>
-
-<br>
-
-## `POST /connect`
-
-```json
-{
-  "linkedin": "https://www.linkedin.com/in/premkumarrajamani/",
-  "portfolio": "https://portfolio-prem3405.vercel.app/",
-  "leetcode": "https://leetcode.com/u/prem_cse_03/",
-  "response_time": "usually < 24h"
-}
-```
-
-<div align="center">
-
-`200 OK` — thanks for stopping by.
-
-</div>
+<p align="center">
+  <i>Open to backend engineering opportunities — feel free to connect on <a href="https://www.linkedin.com/in/premkumarrajamani/">LinkedIn</a>.</i>
+</p>
