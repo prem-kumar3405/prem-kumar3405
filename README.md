@@ -1,65 +1,91 @@
-<h1 align="center">Hi, I'm Prem Kumar 👋</h1>
-<h3 align="center">Backend Developer | Java & Spring Boot</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=220&section=header&text=Prem%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=55&descSize=20" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E3192&center=true&vCenter=true&width=600&lines=Building+backend+systems+that+stay+correct;Concurrency-safe+%7C+Idempotent+%7C+Tested;Java+21+%2B+Spring+Boot+%2B+MySQL" alt="Typing SVG" />
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/premkumarrajamani/"><img src="https://img.shields.io/badge/LinkedIn-2E3192?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://portfolio-prem3405.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1BFFFF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+<a href="https://leetcode.com/u/prem_cse_03/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+
+</div>
+
+<br>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,maven,git,postman,idea&theme=light" />
+
+</div>
+
+<br>
+
+## 🏦 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/prem-kumar3405/BANKING-MANAGEMENT-SYSYEM">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-kumar3405&repo=BANKING-MANAGEMENT-SYSYEM&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
 
 <p align="center">
-I build backend systems that stay correct under pressure — concurrency, data consistency, and clean API design.
+A Spring Boot banking backend engineered to survive <b>concurrent access</b> — optimistic locking, idempotency keys, and dedicated race-condition test suites, not just basic CRUD.
 </p>
 
-<p align="center">
-  <a href="https://portfolio-prem3405.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/premkumarrajamani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/prem_cse_03/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-</p>
+<div align="center">
 
----
+![Concurrency Safe](https://img.shields.io/badge/Concurrency-Safe-2E3192?style=flat-square)
+![Idempotent](https://img.shields.io/badge/Transactions-Idempotent-1BFFFF?style=flat-square&labelColor=2E3192)
+![Tested](https://img.shields.io/badge/Test%20Coverage-JUnit%20%2B%20MockMvc-brightgreen?style=flat-square)
 
-### 🔧 What I work with
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-</p>
+<br>
 
----
+## 📊 GitHub Stats
 
-### 📌 Featured Project
+<div align="center">
 
-**[Banking Management System](https://github.com/prem-kumar3405/BANKING-MANAGEMENT-SYSYEM)**
-A Spring Boot backend that goes past basic CRUD — built to survive concurrent access and repeated requests without corrupting data.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=prem-kumar3405&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=1BFFFF&title_color=2E3192" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-kumar3405&layout=compact&theme=tokyonight&hide_border=true&icon_color=1BFFFF&title_color=2E3192" />
 
-- ⚡ Optimistic locking + idempotency keys to prevent double-processing and race conditions on fund transfers
-- 🧪 Dedicated concurrency test suites that simulate simultaneous requests against the same account
-- 📄 Documented architecture and API reference, not just code
+<br>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-kumar3405&theme=tokyonight&hide_border=true&ring=1BFFFF&fire=2E3192" />
 
-### 📊 GitHub Stats
+<br>
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prem-kumar3405&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-kumar3405&layout=compact&hide_border=true&theme=default" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prem-kumar3405&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-kumar3405&hide_border=true&theme=default" />
-</p>
+</div>
 
----
+<br>
 
-### 🎯 Currently focused on
+## 🎯 Currently
 
-- Deepening backend fundamentals: concurrency control, distributed idempotency, transaction integrity
-- Preparing for SDE interviews — DSA on [LeetCode](https://leetcode.com/u/prem_cse_03/) + system design fundamentals
-- Shipping V3 of my banking project: authentication, Docker, and CI/CD
+<div align="center">
 
----
+```
+🔭  Building V3 of my Banking System — auth, Docker, CI/CD
+🌱  Deepening system design + concurrency fundamentals
+💬  Ask me about optimistic locking & idempotent APIs
+📫  Open to backend engineering roles
+```
 
-<p align="center">
-  <i>Open to backend engineering opportunities — feel free to connect on <a href="https://www.linkedin.com/in/premkumarrajamani/">LinkedIn</a>.</i>
-</p>
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=100&section=footer" width="100%"/>
+
+</div>
