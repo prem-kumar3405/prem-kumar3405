@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=220&section=header&text=Prem%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=55&descSize=20" width="100%"/>
+<img src="./banner.svg" width="100%"/>
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E3192&center=true&vCenter=true&width=600&lines=Building+backend+systems+that+stay+correct;Concurrency-safe+%7C+Idempotent+%7C+Tested;Java+21+%2B+Spring+Boot+%2B+MySQL" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=2500&pause=1200&color=2E3192&center=true&vCenter=true&width=700&lines=JAVA+DEVELOPER;LEETCODE+KNIGHT+%7C+1000%2B+PROBLEMS+SOLVED;BACKEND+%7C+SPRING+BOOT+%7C+MYSQL" alt="Typing SVG" />
 
 <br><br>
 
@@ -26,7 +26,7 @@
 
 <br>
 
-## 🏦 Featured Project
+## 🚀 Projects
 
 <div align="center">
 
@@ -34,10 +34,18 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-kumar3405&repo=BANKING-MANAGEMENT-SYSYEM&theme=tokyonight&hide_border=true" />
 </a>
 
+<a href="https://github.com/prem-kumar3405/REPLACE-WITH-YOUR-REPO-NAME">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-kumar3405&repo=REPLACE-WITH-YOUR-REPO-NAME&theme=tokyonight&hide_border=true" />
+</a>
+
 </div>
 
 <p align="center">
-A Spring Boot banking backend engineered to survive <b>concurrent access</b> — optimistic locking, idempotency keys, and dedicated race-condition test suites, not just basic CRUD.
+🏦 <b>Banking Management System</b> — Spring Boot backend engineered to survive concurrent access: optimistic locking, idempotency keys, and dedicated race-condition test suites.
+</p>
+
+<p align="center">
+💬 <b>Real-Time Messaging App</b> — <i>send me the repo link/name and I'll fill in the real description, tech stack badges, and link here.</i>
 </p>
 
 <div align="center">
